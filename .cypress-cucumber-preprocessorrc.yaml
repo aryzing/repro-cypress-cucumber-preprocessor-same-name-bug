@@ -1,0 +1,1 @@
+nonGlobalStepDefinitions: true # https://github.com/TheBrainFamily/cypress-cucumber-preprocessor#configuration

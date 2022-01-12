@@ -1,0 +1,14 @@
+{
+  "name": "repro-cypress-cucumber-preprocessor-same-name-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eduard Bardají Puig <ebardaji@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "9.2.0",
+    "cypress-cucumber-preprocessor": "4.3.1"
+  }
+}
